@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilgi.islemy2\\source\\repos\\Ndp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA5207F-FFE9-4F30-B6F6-BFDD9006E615}|Ch04Ex02PrimeFactorsTests\\Ch04Ex02PrimeFactorsTests.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\ndp\\ch04ex02primefactorstests\\primefactorstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECA5207F-FFE9-4F30-B6F6-BFDD9006E615}|Ch04Ex02PrimeFactorsTests\\Ch04Ex02PrimeFactorsTests.csproj|solutionrelative:ch04ex02primefactorstests\\primefactorstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870473BA-D56D-4A86-9CDB-9BB57A44EE30}|Ch04Ex02PrimeFactorsApp\\Ch04Ex02PrimeFactorsApp.csproj|c:\\users\\bilgi.islemy2\\source\\repos\\ndp\\ch04ex02primefactorsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870473BA-D56D-4A86-9CDB-9BB57A44EE30}|Ch04Ex02PrimeFactorsApp\\Ch04Ex02PrimeFactorsApp.csproj|solutionrelative:ch04ex02primefactorsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeFactorsTests.cs",
+              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\Ndp\\Ch04Ex02PrimeFactorsTests\\PrimeFactorsTests.cs",
+              "RelativeDocumentMoniker": "Ch04Ex02PrimeFactorsTests\\PrimeFactorsTests.cs",
+              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\Ndp\\Ch04Ex02PrimeFactorsTests\\PrimeFactorsTests.cs",
+              "RelativeToolTip": "Ch04Ex02PrimeFactorsTests\\PrimeFactorsTests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:47:59.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bilgi.islemy2\\source\\repos\\Ndp\\Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\bilgi.islemy2\\source\\repos\\Ndp\\Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "RelativeToolTip": "Ch04Ex02PrimeFactorsApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:46:28.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
