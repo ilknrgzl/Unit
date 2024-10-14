@@ -42,4 +42,4 @@ Proje, .NET Core ile geliştirilmiştir. Aşağıdaki adımları izleyerek proje
 - **Katkıda Bulunanlar**: Projeye katkıda bulunan kişilerin isimleri ve linkleri.
 - **Lisans**: Projenizin hangi lisans altında olduğunu belirtir.
 
-Bu taslağı kendi projenize uygun şekilde düzenleyebilir ve özelleştirebilirsiniz. Herhangi bir ek bilgi veya başka bir içerik isteğiniz olursa, lütfen belirtin!
+
